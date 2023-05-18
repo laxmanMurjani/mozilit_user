@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "923493235275",
+    "firebase_url": "https://predictive-host-314811-default-rtdb.firebaseio.com",
+    "project_id": "predictive-host-314811",
+    "storage_bucket": "predictive-host-314811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923493235275:android:b0e3d2eb42feefbe7f2bce",
+        "android_client_info": {
+          "package_name": "com.mozilitdemo.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923493235275-auv5ok5476j6tot5sbpft4t1m4baduff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mozilitdemo.provider",
+            "certificate_hash": "b8875230c31014cc1d0c61448602ddd2abde0789"
+          }
+        },
+        {
+          "client_id": "923493235275-ot09q0c4sn4k5gbmgvt4pcplqjg6k871.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mozilitdemo.provider",
+            "certificate_hash": "d01f99b242e88cb0b0d38f917c69bf2c88137795"
+          }
+        },
+        {
+          "client_id": "923493235275-rfgum3smjh425690v239cnb33af7koei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7hboiJ3ixR7viIxpNR2YkxrJQy4UVyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923493235275-rfgum3smjh425690v239cnb33af7koei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923493235275-8mk7gef07liqf94a452nm6dn7t9i8rjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mozilitdemo.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923493235275:android:0363b0dd2da7702f7f2bce",
+        "android_client_info": {
+          "package_name": "com.mozilitdemo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923493235275-ci7t98t8gf1rvfa9965q49sm6pjigukf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mozilitdemo.user",
+            "certificate_hash": "b8875230c31014cc1d0c61448602ddd2abde0789"
+          }
+        },
+        {
+          "client_id": "923493235275-nd4ng2rjkkk95lvcsbvl9vu0934m83to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mozilitdemo.user",
+            "certificate_hash": "d01f99b242e88cb0b0d38f917c69bf2c88137795"
+          }
+        },
+        {
+          "client_id": "923493235275-rfgum3smjh425690v239cnb33af7koei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7hboiJ3ixR7viIxpNR2YkxrJQy4UVyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923493235275-rfgum3smjh425690v239cnb33af7koei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923493235275-8mk7gef07liqf94a452nm6dn7t9i8rjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mozilitdemo.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
